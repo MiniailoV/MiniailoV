@@ -4,10 +4,10 @@
 
 I study HTML, CSS, JavaScript, React, Node
 
-Skills: NODE / REACT / JS / HTML / CSS / SQL
+Skills: NODE / REACT / JS / HTML / CSS / SQL / phpMyAdmin 
 
 - 🔭 I’m currently working on this page. 
-https://github.com/MiniailoV
+
 
 
 
