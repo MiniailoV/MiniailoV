@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Miniailo Vitalii
+#### I am GOIT Student Full Stack Web Developer
+![I am GOIT Student Full Stack Web Developer](https://www.mindinventory.com/api/image/admin/infographics/banner/fullstack.jpg)
 
-<!--
-**MiniailoV/MiniailoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study HTML, CSS, JavaScript, React, Node
 
-Here are some ideas to get you started:
+Skills: NODE / REACT / JS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+https://github.com/MiniailoV
+
+
+
